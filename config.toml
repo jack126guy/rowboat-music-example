@@ -1,0 +1,9 @@
+baseURL = "https://rme.example/"
+title = "Rowboat Music Example"
+
+theme = "rowboat-music"
+
+paginate = 2
+
+[params]
+recentReleaseCount = 2
