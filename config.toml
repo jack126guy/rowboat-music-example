@@ -7,3 +7,7 @@ paginate = 2
 
 [params]
 recentReleaseCount = 2
+
+[params.refs.wips]
+title = "WIPs"
+occurrenceFormat = "(WIP of %s)"
