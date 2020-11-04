@@ -1,6 +1,6 @@
 # Rowboat Music Example
 
-Rowboat Music Example is an example site for the [Rowboat Music](https://github.com/jack126guy/rowboat-music).
+Rowboat Music Example is an example site for the [Rowboat Music](https://github.com/jack126guy/rowboat-music) theme for Hugo.
 
 ## License
 
