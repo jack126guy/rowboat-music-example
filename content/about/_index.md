@@ -1,5 +1,6 @@
 +++
 title = "About This Site"
+layout = "info"
 +++
 
 ## What's This
