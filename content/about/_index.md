@@ -11,4 +11,4 @@ As the name suggests, this is an example site for Rowboat Music. It contains mus
 
 ### Copyright
 
-[Copyright information]({{< relref "copyright.md" >}})
+[Copyright information]({{< relref "copyright" >}})
