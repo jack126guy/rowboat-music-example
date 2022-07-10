@@ -5,6 +5,24 @@ theme = "rowboat-music"
 
 paginate = 2
 
+[[menu.main]]
+identifier = "releases"
+name = "Releases"
+url = "/releases/"
+weight = 1
+
+[[menu.main]]
+identifier = "all-music"
+name = "All Music"
+url = "/all-music/"
+weight = 2
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 3
+
 [params]
 recentReleaseCount = 2
 stylesheets = ["styles.css", "styles-custom.css"]
