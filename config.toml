@@ -24,6 +24,7 @@ url = "/about/"
 weight = 3
 
 [params]
+logo = "logo.png"
 recentReleaseCount = 2
 stylesheets = ["styles.css", "styles-custom.css"]
 
